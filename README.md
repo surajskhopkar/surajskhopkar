@@ -1,7 +1,7 @@
 ### Hola, I'm Suraj Khopkar 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with Postman
 - 💬 Ask me about 
